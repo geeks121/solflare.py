@@ -22,7 +22,7 @@ This script supports exporting data from Solflare to Phantom Wallet or other wal
 
     Example result:
    ```plaintext
-   5HtLjQi436eZE9BWWzFts5WRd5uTFfWpLEgpoz49eot92nVJehtxZye5V7BUpbFzmsZvsSxJhDTzAtVpFZzz9S14!
+   5HtLjQi436eZE9BWWzFts5WRd5uTFfWpLEgpoz49eot92nVJehtxZye5V7BUpbFzmsZvsSxJhDTzAtVpFZzz9S14
 
 
 
